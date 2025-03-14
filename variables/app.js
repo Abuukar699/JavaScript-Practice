@@ -54,15 +54,17 @@
 // JavaScript identifiers are case-sensitive.
 
 
-var name = "maxamed abuukar Hussein";
-console.log(name)
+// var name = "maxamed abuukar Hussein";
+// console.log(name)
 
-const age = 23
+// const age = 23
 
-console.log(age)
-
-
-let colors = 'blue';
-console.log(colors)
+// console.log(age)
 
 
+// let colors = 'blue';
+// console.log(colors)
+
+
+
+console.log(Math.max(10, 20, 30, 0))
